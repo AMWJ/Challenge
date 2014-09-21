@@ -9,5 +9,5 @@ A word’s social network consists of all of it's friend, all of it's friends fr
 Write a program in your favorite dynamic language that efficiently finds the
 social network for any given word, using the word list provided.
 
-## Submission
-Please email your completed program to careers@waypaver.co
+## Solution
+The solution is in the getSocialNetwork() method of networker.js.
